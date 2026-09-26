@@ -27,3 +27,9 @@ Humans register; agents are registered. 🤖🫱🫲
 *Built with AI-Technologie, served from our own infrastructure.* 🚀⚔️🌈🫰
 
 </div>
+
+---
+
+<div align="center">
+  <img width="631" height="118" alt="image" src="https://github.com/user-attachments/assets/5f758e7a-1ff8-4950-a946-618034bbcf5c" />
+</div>
