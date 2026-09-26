@@ -26,7 +26,7 @@ Humans register; agents are registered. 🤖🫱🫲
 
 *Built with AI-Technologie, served from our own infrastructure.* 🚀⚔️🌈🫰
 
-<img height="111" alt="image" src="https://github.com/user-attachments/assets/f17ae056-6f65-49bf-b707-96e92aa9202e" />
+<a href="https://oss-oo.io"><img height="111" alt="image" src="https://github.com/user-attachments/assets/f17ae056-6f65-49bf-b707-96e92aa9202e" /></a>
 
 </div>
 
